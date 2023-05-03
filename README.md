@@ -63,85 +63,85 @@ This Slack workspace includes all courses of this specialization.
 
 * Week 1 
    + No Lab
-   + Week 1 Quiz [Introduction to Deep Learning]()
+   + Week 1 Quiz [Introduction to Deep Learning](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%201/Week%201%20Introduction%20to%20Deep%20Learning.pdf)
 * Week 2 Labs & Quiz:
-   + [Python Basics with Numpy (optional assignment)]()
-   + [Logistic Regression with a Neural Network mindset]()
-   + Week 2 Quiz [Neural Network Basics]()
+   + [Python Basics with Numpy (optional assignment)](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%202/Python_Basics_with_Numpy.ipynb)
+   + [Logistic Regression with a Neural Network mindset](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%202/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+   + Week 2 Quiz [Neural Network Basics](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%202/Week%202%20Neural%20Network%20Basics.pdf)
 
 * Week 3 Lab & Quiz:
-   + [Planar data classification with one hidden layer]()
-   + Week 3 Quiz [Shallow Neural Networks]()
+   + [Planar data classification with one hidden layer](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%203/Planar_data_classification_with_one_hidden_layer.ipynb)
+   + Week 3 Quiz [Shallow Neural Networks](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%203/Week%203%20Shallow%20Neural%20Networks.pdf)
 
 * Week 4 Labs & Quiz:
-   + [Building your Deep Neural Network: Step by Step]()
-   + [Deep Neural Network for Image Classification: Application]()
-   + Week 4 Quiz [Key Concepts on Deep Neural Networks]()
+   + [Building your Deep Neural Network: Step by Step](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+   + [Deep Neural Network for Image Classification: Application](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20-%20Application.ipynb)
+   + Week 4 Quiz [Key Concepts on Deep Neural Networks](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%201-Neural%20Networks%20%26%20Deep%20Learning/Week%204/Week%204%20Key%20Concepts%20on%20Deep%20Neural%20Networks.pdf)
 
 
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 * Week 1 Labs & Quiz:
-    + [Initialization]()
-    + [Regularization]()
-    + [Gradient Checking]()
-    + Week 1 Quiz [Practical aspects of Deep Learning]()
+    + [Initialization](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%201/Initialization.ipynb)
+    + [Regularization](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%201/Regularization.ipynb)
+    + [Gradient Checking](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%201/Gradient_Checking.ipynb)
+    + Week 1 Quiz [Practical aspects of Deep Learning](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%201/Week%201%20Practical%20aspects%20of%20Deep%20Learning.pdf)
 * Week 2 Labs & Quiz:
-   + [Optimization Methods]()
-   + Week 2 Quiz [Optimization Algorithms]()
+   + [Optimization Methods](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%202/Optimization_methods.ipynb)
+   + Week 2 Quiz [Optimization Algorithms](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%202/Week%202%20Optimization%20Algorithms.pdf)
 * Week 3 Labs & Quiz:
-   + [Introduction to TensorFlow]()
-   + Week 3 Quiz [Hyperparameter tuning, Batch Normalization, Programming Frameworks]()
+   + [Introduction to TensorFlow](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%203/Tensorflow_introduction.ipynb)
+   + Week 3 Quiz [Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%202-Improving%20Deep%20Neural%20Networks/Week%203/Week%203%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.pdf)
 
 
 ### Course 3: Structuring Machine Learning Projects
 
 * Week 1 Labs & Quiz:
    + No Lab
-   + Week 1 Quiz [Bird Recognition in the City of Peacetopia (Case Study)]()
+   + Week 1 Quiz [Bird Recognition in the City of Peacetopia (Case Study)](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%203-Structuring%20MachineLearningProjects/Week%201%20Bird%20Recognition%20in%20the%20City%20of%20Peacetopia%20Case%20Study.pdf)
 * Week 2 Labs & Quiz:
    + No Lab
-   + Week 2 Quiz [Autonomous Driving (Case Study)]()
+   + Week 2 Quiz [Autonomous Driving (Case Study)](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%203-Structuring%20MachineLearningProjects/Week%202%20Autonomous%20Driving%20Case%20Study.pdf)
 
 
 ### Course 4: Convolutional Neural Networks
 
 * Week 1 Labs & Quiz:
-   + [Convolutional Neural Networks: Step by Step]()
-   + [Convolutional Neural Networks: Application]()
-   + Week 1 Quiz [The Basics of ConvNets]()
+   + [Convolutional Neural Networks: Step by Step](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%201/Convolution_model_Step_by_Step_v1.ipynb)
+   + [Convolutional Neural Networks: Application](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%201/Convolution_model_Application.ipynb)
+   + Week 1 Quiz [The Basics of ConvNets](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%201/Week%201%20The%20Basics%20of%20ConvNets.pdf)
 * Week 2 Labs & Quiz:
-   + [Residual Networks]()
-   + [Transfer Learning with MobileNetV2]()
-   + Week 2 Quiz [Deep Convolutional Models]()
+   + [Residual Networks](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%202/Residual_Networks.ipynb)
+   + [Transfer Learning with MobileNetV2](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%202/Transfer_learning_with_MobileNet_v1.ipynb)
+   + Week 2 Quiz [Deep Convolutional Models](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%202/Week%202%20Deep%20Convolutional%20Models.pdf)
 * Week 3 Labs & Quiz:
-  + [Autonomous Driving - Car Detection]()
-  + [Image Segmentation with U-Net]()
-  + Week 3 Quiz [Detection Algorithms]()
+  + [Autonomous Driving - Car Detection](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%203/Autonomous_driving_application_Car_detection.ipynb)
+  + [Image Segmentation with U-Net](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%203/Image_segmentation_Unet_v2.ipynb)
+  + Week 3 Quiz [Detection Algorithms](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%203/Week%203%20Detection%20Algorithms.pdf)
 * Week 4 Labs & Quiz:
-  + [Face Recognition]()
-  + [Deep Learning & Art: Neural Style Transfer]()
-  + Week 4 Quiz [Special Applications Face Recognition and Neural Style Transfer]()
+  + [Face Recognition](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%204/Face_Recognition.ipynb)
+  + [Deep Learning & Art: Neural Style Transfer](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%204/Art_Generation_with_Neural_Style_Transfer.ipynb)
+  + Week 4 Quiz [Special Applications Face Recognition and Neural Style Transfer](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%204-ConvolutionalNeuralNetworks/Week%204/Week%204%20Special%20Applications%20Face%20Recognition%20and%20Neural%20Style%20Transfer.pdf)
 
 
 ### Course 5: Sequence Models
 * Week 1 Labs & Quiz:
-  + [Building your Recurrent Neural Network - Step by Step]()
-  + [Character level language model - Dinosaurus Island]()
-  + [Improvise a Jazz Solo with an LSTM Network]()
-  + Week 1 Quiz [Recurrent Neural Networks]()
+  + [Building your Recurrent Neural Network - Step by Step](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+  + [Character level language model - Dinosaurus Island](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%201/Dinosaurus_Island_Character_level_language_model.ipynb)
+  + [Improvise a Jazz Solo with an LSTM Network](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%201/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+  + Week 1 Quiz [Recurrent Neural Networks](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%201/Week%201%20Recurrent%20Neural%20Networks.pdf)
 * Week 2 Labs & Quiz:
-  + [Operations on Word Vectors]()
-  + [Emojify!]()
-  + Week 2 Quiz [Natural Language Processing and Word Embeddings]()
+  + [Operations on Word Vectors](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%202/Operations_on_word_vectors_v2a.ipynb)
+  + [Emojify!](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%202/Emoji_v3a.ipynb)
+  + Week 2 Quiz [Natural Language Processing and Word Embeddings](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%202/Week%202%20Natural%20Language%20Processing%20and%20Word%20Embeddings.pdf)
 * Week 3 Labs & Quiz:
-  + [Neural Machine Translation]()
-  + [Trigger Word Detection]()
-  + Week 3 Quiz [Sequence Models and Attention Mechanism]()
+  + [Neural Machine Translation](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%203/Neural_machine_translation_with_attention_v4a.ipynb)
+  + [Trigger Word Detection](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%203/Trigger_word_detection_v2a.ipynb)
+  + Week 3 Quiz [Sequence Models and Attention Mechanism](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%203/Week%203%20Sequence%20models%20and%20Attention%20Mechanism.pdf)
 * Week 4 Labs & Quiz:
-  + [Transformer Network]()
-  + Week 4 Quiz [Trasformers]()
+  + [Transformer Network](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%204/C5_W4_A1_Transformer_Subclass_v1.ipynb)
+  + Week 4 Quiz [Trasformers](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%204/Week%204%20Transformers.pdf)
   
     
   
