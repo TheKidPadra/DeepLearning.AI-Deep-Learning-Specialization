@@ -164,8 +164,10 @@ This Slack workspace includes all courses of this specialization.
 5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 
 ----------------------------------------------------------------------------------------------------------------
- ## 📝 License
+## 📝 License
+ 
 The gem is available as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
 -----------------------------------------------------------------------------------------------------------------
 ## Disclaimer
+
 I recognize the hard time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are **only for reference**. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions.
