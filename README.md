@@ -1,4 +1,3 @@
-# Deep Learning Specialization on Coursera (offered by deeplearning.ai)
 
 <p align="center"><img width="auto" src="https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Assets/banner.png" /></p>
 
