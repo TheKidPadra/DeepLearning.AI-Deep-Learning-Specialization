@@ -144,5 +144,15 @@ This Slack workspace includes all courses of this specialization.
   + Week 4 Quiz [Trasformers](https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Course%205-SequenceModels/Week%204/Week%204%20Transformers.pdf)
   
     
-  
+  ## Certificate
+
+1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9LV2D8ND4UNV)
+2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/7ETLGGB85S9N)
+3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/4S4BS8BEEPR4)
+4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/T862BAR8XNV3)
+5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/KFGNFGUWZGGB)
+6. [Deep Learning Specialization(Final Certificate)]()
+
+--------------------------------------------------------------------------------------------------------------
+
 
