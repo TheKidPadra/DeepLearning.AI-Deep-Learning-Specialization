@@ -145,29 +145,4 @@ This Slack workspace includes all courses of this specialization.
   
     
   
-## Certificate
 
-1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/9LV2D8ND4UNV)
-2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/7ETLGGB85S9N)
-3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/4S4BS8BEEPR4)
-4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/T862BAR8XNV3)
-5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/KFGNFGUWZGGB)
-6. [Deep Learning Specialization(Final Certificate)]()
-
---------------------------------------------------------------------------------------------------------------
-## References
-1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
-2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
-5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
-
-----------------------------------------------------------------------------------------------------------------
-
-## 📝 License
-The gem is available as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
-
-----------------------------------------------------------------------------------------------------------------
-
-## Disclaimer
-I recognize the hard time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are **only for reference**. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions.
