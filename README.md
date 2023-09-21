@@ -1,22 +1,4 @@
-# Deep Learning Specialization on Coursera (offered by deeplearning.ai)
 
-<p align="center"><img width="auto" src="https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Assets/banner.png" /></p>
-
-Programming assignments and quizzes answers from all courses in the Coursera [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [`deeplearning.ai`](https://www.deeplearning.ai/courses/deep-learning-specialization/).
-
-## Credits
-
-This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
-
-## Courses
-
-The [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera contains five courses:
-
-- Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
-- Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-- Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-- Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
-- Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 
 ## Specialization Info
 
