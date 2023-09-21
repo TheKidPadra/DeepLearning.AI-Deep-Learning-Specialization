@@ -1,4 +1,5 @@
 
+- Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 - Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 
 ## Specialization Info
