@@ -2,8 +2,7 @@
 
 <p align="center"><img width="auto" src="https://github.com/TheKidPadra/DeepLearning.AI-CourseraDeepLearningSpecialization-/blob/main/Assets/banner.png" /></p>
 
-Programming assignments and quizzes answers from all courses in the Coursera [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [`deeplearning.ai`](https://www.deeplearning.ai/courses/deep-learning-specialization/).
-
+Programming assignments and quizzes answers from all courses in the Coursera [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [<img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/DeepLearningAILogo.png" width="200"/>](https://www.deeplearning.ai/courses/deep-learning-specialization/)
 ## Credits
 
 This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
